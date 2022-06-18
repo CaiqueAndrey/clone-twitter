@@ -5,6 +5,7 @@ UI Clone - Twitter Responsive
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes. By Rocketseat video</p>
 
 <hr>
+
 ## Techs
 
 - [x] React.js
